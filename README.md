@@ -1,45 +1,15 @@
-<img align="right" src="portrait.webp" width="260" alt="Liran Baba pixel portrait" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+  <img src="assets/hero-light.svg" width="100%" alt="Liran Baba. AI Lead at JFrog. The automatons did exactly what they were told. Nobody told them to stop." />
+</picture>
 
-```
- █      █████  █████    ██   ██   █
- █        █    █   ▓█   ██   ██░  █
- █        █    █    █  ▒██▒  █▒▓  █
- █        █    █   ▒█  ▓▒▒▓  █ █  █
- █        █    █████   █░░█  █ ▓▓ █
- █        █    █  ░█▒  █  █  █  █ █
- █        █    █   ░█ ▒████▒ █  ▓▒█
- █        █    █    █ ▓▒  ▒▓ █  ░██
- ██████ █████  █    ▒ █░  ░█ █   ██
+<p>
+<a href="https://liranbaba.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/blog-dark.svg" /><img src="assets/blog-light.svg" width="49.5%" alt="liranbaba.dev: the blog." /></picture></a>
+<a href="https://github.com/cordwainersmith/Claudoscope"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/claudoscope-dark.svg" /><img src="assets/claudoscope-light.svg" width="49.5%" alt="Claudoscope: a native Mac dashboard for Claude Code sessions." /></picture></a>
+<a href="https://github.com/cordwainersmith/horita"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/horita-dark.svg" /><img src="assets/horita-light.svg" width="49.5%" alt="horita: your next meeting and a countdown in the menu bar." /></picture></a>
+<a href="https://huggingface.co/CordwainerSmith/GolemPII-v2-base"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/golempii-dark.svg" /><img src="assets/golempii-light.svg" width="49.5%" alt="GolemPII: Hebrew PII detection models." /></picture></a>
+<a href="https://huggingface.co/datasets/CordwainerSmith/GolemGuard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/golemguard-dark.svg" /><img src="assets/golemguard-light.svg" width="49.5%" alt="GolemGuard: the synthetic Hebrew dataset behind GolemPII. 115K samples." /></picture></a>
+<a href="https://github.com/cordwainersmith/cc-status-bar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cc-status-bar-dark.svg" /><img src="assets/cc-status-bar-light.svg" width="49.5%" alt="cc-status-bar: a live status line for Claude Code." /></picture></a>
+</p>
 
- █████░   ██   █████░   ██
- █   ▒█   ██   █   ▒█   ██
- █    █  ▒██▒  █    █  ▒██▒
- █   ▒█  ▓▒▒▓  █   ▒█  ▓▒▒▓
- █████░  █░░█  █████░  █░░█
- █   ▒█  █  █  █   ▒█  █  █
- █    █ ▒████▒ █    █ ▒████▒
- █   ▒█ ▓▒  ▒▓ █   ▒█ ▓▒  ▒▓
- █████░ █░  ░█ █████░ █░  ░█
-```
-
-AI Lead at JFrog. 18 years in enterprise software.
-
-I build AI tooling for developers. The best version of these tools is the one you stop noticing.
-
----
-
-### Projects
-
-| | |
-|---|---|
-| [Claudoscope](https://github.com/cordwainersmith/Claudoscope) | macOS dashboard for your Claude Code sessions |
-| [GolemPII-v1](https://huggingface.co/CordwainerSmith/GolemPII-v1) | Hebrew PII detection model, trained on 115K examples |
-| [Adapt-CV](https://huggingface.co/spaces/CordwainerSmith/adapt-cv) | Aligns your resume to a job description so ATS stops throwing it out |
-| [GolemGuard](https://huggingface.co/datasets/CordwainerSmith/GolemGuard) | 115K Hebrew samples for training PII detection models |
-| [CustomerPersonas](https://huggingface.co/datasets/CordwainerSmith/CustomerPersonas) | 250K synthetic customer personas across six industries |
-| [alpharalpha.dev](https://liranbaba.dev) | Blog. Mostly AI and dev tools. |
-
----
-
-[alpharalpha.dev](https://liranbaba.dev) / [rss](https://liranbaba.dev/rss.xml)
-# cordwainersmith
+Also: [Adapt-CV](https://huggingface.co/spaces/CordwainerSmith/adapt-cv), [CustomerPersonas](https://huggingface.co/datasets/CordwainerSmith/CustomerPersonas), [reddit-mcp](https://github.com/cordwainersmith/reddit-mcp). Writing at [liranbaba.dev](https://liranbaba.dev) ([rss](https://liranbaba.dev/rss.xml)).
